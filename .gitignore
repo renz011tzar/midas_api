@@ -1,5 +1,14 @@
+# Virtual Environment
 venv/
+env/
+.venv/
+myenv/
+
+# Python Cache
 __pycache__/
 *.pyc
-.env
-.vercel
+*.pyo
+*.pyd
+
+# Vercel Specific
+.vercel/
